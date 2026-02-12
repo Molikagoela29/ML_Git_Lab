@@ -1,1 +1,2 @@
-print("House Price Prediction Model - Version 1")
+print("House Price Prediction Model")
+print("Added Feature Scaling")
