@@ -1,2 +1,1 @@
-print("House Price Prediction Model")
-print("Using Decision Tree Model")
+print("House Price Prediction Model - Version 1")
